@@ -1,0 +1,19 @@
+
+
+.nav{
+  display: flex;
+  /* background-color: #bbb;  */
+  background-color: rgba(146, 146, 150, 0.8);
+
+}
+.ul{
+  display: flex;
+  gap: 40px;
+}
+.li{
+  cursor: pointer;
+  list-style: none;
+  /* background-color: rgba(210, 214, 208, 0.5); */
+  width: 80px;
+  padding: 8px;
+}
